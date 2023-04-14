@@ -12,6 +12,7 @@
 I'm not only a marketing lead in OsmAnd which works with OsmAnd communities, users, partners. I test OsmAnd apps, write [osmand.net/docs](https://osmand.net/docs/intro) and sometimes help the support team. 
 
 
+## Stats
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EugeneZmeuk)](https://git.io/streak-stats)
 
