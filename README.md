@@ -14,10 +14,10 @@ I'm not only a marketing lead in OsmAnd which works with OsmAnd communities, use
 
 ## Stats
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EugeneZmeuk)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=EugeneZmeuk)](https://github.com/EugeneZmeuk)
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneZmeuk)](https://github.com/EugeneZmeuk/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EugeneZmeuk)](https://github.com/EugeneZmeuk)
 
 <!--
 <picture>
